@@ -49,6 +49,7 @@ Before you begin, make sure you have:
 Install dependencies:
 ```bash
 pip install streamlit PyPDF2 python-docx scikit-learn
+pip install -r requirements.txt
 
 ### 1️⃣ **Run the app**
 streamlit run app.py
